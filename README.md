@@ -1,6 +1,4 @@
-<img src="https://via.placeholder.com/1000x250/1a1a1a/ffffff?text=%3CGerardo+Vividor+%2F%3E+%7C+Software+Engineer" alt="Banner" width="100%">
-
-<h1 align="center"> &lt; Gerardo Vividor /&gt; </h1>
+<h1 align="center">Gerardo Vividor</h1>
 <h3 align="center"> Full-Stack Software Engineer | C# | .NET | React | SQL </h3>
 
 <br>
