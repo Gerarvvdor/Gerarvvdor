@@ -6,14 +6,14 @@
 <div>
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="right" width="350" alt="Coding Illustration">
   
-  <h3>👨‍💻 Sobre mí</h3>
+  <h3>👨‍💻 About Me</h3>
   
-  **Full-Stack Software Engineer** apasionado por construir aplicaciones web escalables y resolver lógica de negocios compleja. Con una base sólida tanto en arquitectura backend como en desarrollo frontend, llevo los proyectos desde el diseño de la base de datos hasta el despliegue en servidores.
+  **Full-Stack Software Engineer** passionate about building scalable web applications and solving complex business logic. With a strong foundation in both backend architecture and frontend development, I take projects from database design all the way to server deployment.
   
-  - 🔭 Actualmente construyendo: **Sistemas robustos y escalables (.NET + React)**
-  - 🌱 Aprendiendo y Trasteando: **Automatización de flujos con n8n**
-  - 🚀 Proyecto Personal: **Desarrollando la plataforma web para la marca de mi mamá**
-  - ⚡ Dato curioso: **Tengo un proyecto Frankenstein en Kotlin que funciona de milagro, pero me enseñó un montón.**
+  - 🔭 Currently building: **Robust and scalable systems (.NET + React)**
+  - 🌱 Learning & Tinkering: **Workflow automation with n8n**
+  - 🚀 Personal Project: **Developing the web platform for my mom's brand**
+  - ⚡ Fun fact: **I have a Frankenstein project in Kotlin that works by some miracle, but it taught me a lot!**
 </div>
 
 <br>
