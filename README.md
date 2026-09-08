@@ -1,48 +1,66 @@
 <h1 align="center">Gerardo Vividor</h1>
-<p align="center">
-  <strong>Full-Stack Software Engineer</strong> | .NET Core • C# • React • TypeScript • SQL Server
-</p>
+<h3 align="center"> Full-Stack Software Engineer | C# | .NET | React | SQL </h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gerardo-orellana-a88679211/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:geraraov@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+<br>
 
----
+<div>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="right" width="350" alt="Coding Illustration">
+  
+  <h3>👨‍💻 About Me</h3>
+  
+  **Full-Stack Software Engineer** passionate about building scalable web applications and solving complex business logic. With a strong foundation in both backend architecture and frontend development, I take projects from database design all the way to server deployment.
+  
+  - 🔭 Currently building: **Robust and scalable systems (.NET + React)**
+  - 🌱 Learning & Tinkering: **Workflow automation with n8n**
+  - 🚀 Personal Project: **Developing the web platform for my mom's brand**
+  - ⚡ Fun fact: **I have a Frankenstein project in Kotlin that works by some miracle, but it taught me a lot!**
+</div>
 
-### 👨‍💻 Perfil Técnico
+<br>
 
-Ingeniero de software enfocado en el desarrollo de arquitecturas escalables, sistemas transaccionales y migración de servicios legacy. Especializado en el ecosistema **.NET (C#)** y **React / TypeScript**, con experiencia cubriendo desde el diseño de bases de datos relacionales hasta el despliegue contenerizado.
+### 🤝 Connect with me
+<div align="left">
+  <a href="mailto:geraraov@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/gerardo-orellana-a88679211/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"></a>
+  <a href="https://instagram.com/geraraovv"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram"></a>
+  <a href="https://facebook.com/geraraovv"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" alt="Facebook"></a>
+</div>
 
-* 🔭 **Enfoque actual:** Arquitectura de backend en .NET, microservicios y frontend modular en React.
-* 🌱 **Explorando:** Automatización avanzada de flujos de trabajo e integraciones API con **n8n**.
-* ⚡ **Fun fact:** Levanté un proyecto completo en Kotlin conectando piezas casi imposibles... no solo funcionó, sino que me enseñó a depurar a fondo.
+<br><br>
 
----
+### 🛠️ Languages and Tools
 
-### 🛠️ Stack Tecnológico
+**Frontend:**<br>
+<img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 
-| Área | Tecnologías |
-| :--- | :--- |
-| **Backend & Core** | `C#` `.NET Core` `Node.js` `TypeScript` `Java` `Spring Boot` |
-| **Frontend** | `React` `Angular` `Tailwind CSS` `Next.js` `Bootstrap` |
-| **Bases de Datos & ORM** | `SQL Server` `PostgreSQL` `Prisma` `Entity Framework` |
-| **DevOps, Tools & CI/CD** | `Docker` `Git` `Linux` `n8n` `Postman` `Swagger` |
+**Backend & APIs:**<br>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
 
----
+**Database & Tools:**<br>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+<img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia" />
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black" alt="Swagger" />
+<img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 
-### 📌 Proyectos Destacados
+**DevOps & Deployment:**<br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" alt="DigitalOcean" />
 
-* **[Nombre del Proyecto 1](https://github.com/Gerarvvdor/repo1)** — Plataforma web full-stack orientada a gestión y control operativo.  
-  *Stack: .NET, React, PostgreSQL, Docker.*
-* **[Nombre del Proyecto 2](https://github.com/Gerarvvdor/repo2)** — API REST para procesamiento y reportería fiscal/transaccional.  
-  *Stack: Java, Spring Boot, SQL Server.*
+<br><br>
 
----
-
-### 📊 Actividad en GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gerarvvdor&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerarvvdor&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
-</p>
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gerarvvdor&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerarvvdor&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
